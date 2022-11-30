@@ -1,0 +1,20 @@
+{
+  "name": "lapizzeria-gutenberg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@svgr/webpack": "^6.2.1",
+    "@wordpress/scripts": "^22.4.0",
+    "url-loader": "^4.1.1"
+  }
+}
